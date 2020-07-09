@@ -1,4 +1,4 @@
-# MediumEnabler
+# Medium Enabler
 
 ### This is a Firefox extension project that enables Medium.com in countries blocking the website like Egypt,
 
