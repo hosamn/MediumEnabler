@@ -5,7 +5,7 @@
 varr = document.body.contains(document.getElementById("myFlag"))
 
 if (!varr) {
-    window.location.href = window.location.href.replace('medium.com','medium.com.');
+    window.location.href = window.location.href.replace('medium.com/','medium.com./');
     var node = document.createElement("DIV");
     node.id = "myFlag";
     node.style.display = "none";
